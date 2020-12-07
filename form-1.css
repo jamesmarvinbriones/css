@@ -1,0 +1,6 @@
+/* Logo */
+#logo a {background-image:url('http://afdc.co/assets/analyticsfire-logo.svg'); min-height:0; margin: 15px !important; height:50px !important}
+* html #logo a {/* IE6 png Support */
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://afdc.co/assets/analyticsfire-logo.svg", sizingMethod="crop");
+}
