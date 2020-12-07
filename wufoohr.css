@@ -1,0 +1,83 @@
+#logo a {
+    margin: 15px !important;
+      height: 30px !important;
+}
+
+#logo {
+    margin: 15px !important;
+}
+
+.likert tbody th label {
+    color: #222;
+    font-size: 95%;
+    font-weight: normal !important;
+}
+
+.wufoo .info div {
+    margin-top: 20px;
+  color: #000;
+  margin-bottom: 30px !important;
+}
+
+.wufoo .info h2 {
+    text-align: center !important;
+}
+
+
+form li {
+    padding: 10px 1% 9px 1%;
+}
+
+.safari input.btTxt {
+    border: 1px solid #076fe4;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 0 0 #8ebcf1;
+    color: #fff;
+    display: inline-block;
+    font-size: inherit;
+    font-weight: bold;
+    background-color: #4294f0;
+    background-image: linear-gradient(#4294f0,#0776f3);
+    padding: 7px 18px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #0065d6;
+    background-clip: padding-box;
+    width: 33.33333%;
+    float: left;
+    padding-left: .625rem;
+    padding-right: .625rem;
+    padding: 0.5rem;
+    background-color: #E93E6B;
+    color: #fff;
+    font-family: 'Anivers', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 900;
+}
+
+.wufoo li.focused {
+    background-color: #fff7c070;
+}
+
+.wufoo .section h3 {
+    color: #444444 !important;
+}
+
+form li.section h3 {
+    border-top: 0px dotted #CCCCCC !important;
+}
+
+.wufoo .section h3, .wufoo .captcha, #payment .paging-context {
+    border-top: 0px dotted #CCCCCC !important;
+}
+
+.pushright
+{margin-left:50px;}
+
+.likert tbody th {
+    padding: 20px 8px !important;
+    text-align: left;
+}
+
+.col5 td {
+    width: 5% !important;
+}
