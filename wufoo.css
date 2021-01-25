@@ -1,0 +1,23 @@
+input.large, select.large {
+    width: 60% !important;
+}
+
+textarea.textarea {
+    width: 293px !important;
+    min-width: 60% !important;
+    max-width: 60% !important;
+}
+
+.wufoo .info div {
+    font-size: 100% !important;
+    font-family: Georgia !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    color: #808e94 !important;
+}
+
+#logo {
+    background-image: none !important;
+    background-color: transparent !important;
+    display: none !important;
+}
